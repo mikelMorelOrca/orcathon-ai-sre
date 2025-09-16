@@ -63,6 +63,7 @@ For each request you find, do the following:
 2. **Search company wikis** using those key terms to find relevant documentation
 3. **Analyze wiki content** to identify step-by-step procedures or guidance
 4. **Provide response** with links to relevant documentation
+Use different keywords until a wiki is found, up to 10 search attempts.
 
 For each request found, provide:
 - **Requester**: Who asked the question
